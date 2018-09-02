@@ -18,7 +18,10 @@
         </activity>
         <activity android:name=".enterhome" />
         <activity android:name=".entry" />
-        <activity android:name=".levels_activity"></activity>
+        <activity android:name=".levels_activity" />
+        <activity android:name=".level_easy_activity" />
+        <activity android:name=".medium_level" />
+        <activity android:name=".hard_level"></activity>
     </application>
 
 </manifest>
