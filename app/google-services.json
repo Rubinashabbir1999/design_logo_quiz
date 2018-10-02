@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "852782844512",
+    "firebase_url": "https://logoguessapp-df064.firebaseio.com",
+    "project_id": "logoguessapp-df064",
+    "storage_bucket": "logoguessapp-df064.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852782844512:android:52303b10ba8cf5fb",
+        "android_client_info": {
+          "package_name": "com.example.ashra.logo_guessapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852782844512-jgkjqvo49rt5ve049d1v6ul0gudnqqh6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ashra.logo_guessapp",
+            "certificate_hash": "aaed79c2102fe284a8fd77d4b098d2f8ccc8d836"
+          }
+        },
+        {
+          "client_id": "852782844512-4ok2lsip7nf164i0fbpp88amuia2s40f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaXVeH10YTBHBmkmtf6kTOZoBU-ZnvdSs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852782844512-4ok2lsip7nf164i0fbpp88amuia2s40f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

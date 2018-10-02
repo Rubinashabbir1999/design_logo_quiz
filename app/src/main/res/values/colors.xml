@@ -4,6 +4,6 @@
     <color name="colorPrimaryDark">#232f7d</color>
     <color name="colorAccent">#d81b5b</color>
     <color name="backgroundcolor">#6A1B9A</color>
-    <color name="buttncolor">#ffff</color>
+    <color name="buttncolor">#ffffff</color>
     <color name="background_simple_color">#880E4F</color>
 </resources>

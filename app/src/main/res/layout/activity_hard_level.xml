@@ -41,7 +41,7 @@
         android:layout_height="44dp"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
-        android:layout_marginTop="32dp"
+        android:layout_marginTop="24dp"
         android:background="@drawable/buttn_curve"
         android:text="Button"
         app:layout_constraintEnd_toEndOf="parent"
@@ -51,13 +51,14 @@
 
     <ImageView
         android:id="@+id/imageView6"
-        android:layout_width="326dp"
-        android:layout_height="264dp"
+        android:layout_width="385dp"
+        android:layout_height="273dp"
         android:layout_marginEnd="8dp"
-        android:layout_marginStart="8dp"
-        android:layout_marginTop="16dp"
+        android:layout_marginTop="4dp"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/Flag_of_Croatia" />
+        app:srcCompat="@drawable/easyone" />
+
 </android.support.constraint.ConstraintLayout>
